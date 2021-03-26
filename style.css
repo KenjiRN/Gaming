@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+body {
+font-family: 'New Tegomin', serif;
+  text-align:center;
+  background-image: url('https://abglt.org.br/wp-content/uploads/2020/10/wallpaper-pc1-scaled.jpg');
+  background-color: #3c415c;
+  background-size: 100vw;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: left;
+  padding: 20px;
+  
+}
+
+.page-title {
+  color: #e4fbff;
+  margin: 0 0 5px;
+  text-align: center;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+.page-subtitle{
+  text-align:center;
+  color: white;
+  font-size: 20px;
+  
+}
+
+body > img {
+  margin: 0 10px;
+}
+ .imgDoFilme{
+  border: 1px solid white;
+}
+
+#container2{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+    
+}
+
+#container3{
+  margin: 0 10px;
+}
+
+#container3 p{
+  color: #e4fbff;
+  font-weight: bold;
+  
+  
+}
